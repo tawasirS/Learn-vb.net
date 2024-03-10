@@ -1,0 +1,12 @@
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.vbproj.AssemblyReference.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn_modern_form.Form1.resources
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn_modern_form.Resources.resources
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.vbproj.GenerateResource.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.vbproj.CoreCompileInputs.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\bin\Debug\learn modern form.exe.config
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\bin\Debug\learn modern form.exe
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\bin\Debug\learn modern form.pdb
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\bin\Debug\learn modern form.xml
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.exe
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.xml
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\learn modern form\learn modern form\obj\Debug\learn modern form.pdb

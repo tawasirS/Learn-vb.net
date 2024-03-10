@@ -1,0 +1,12 @@
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\bin\Debug\RGB ARGB HEX.exe.config
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\bin\Debug\RGB ARGB HEX.exe
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\bin\Debug\RGB ARGB HEX.pdb
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\bin\Debug\RGB ARGB HEX.xml
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.vbproj.AssemblyReference.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB_ARGB_HEX.Form1.resources
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB_ARGB_HEX.Resources.resources
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.vbproj.GenerateResource.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.vbproj.CoreCompileInputs.cache
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.exe
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.xml
+C:\Users\srisawat\OneDrive\self leaning\visual basic\modern form\RGB ARGB Hex\RGB ARGB HEX\RGB ARGB HEX\obj\Debug\RGB ARGB HEX.pdb

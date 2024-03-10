@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\modern form\\RGB ARGB Hex\\RGB ARGB HEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F471A54-E5A0-4F52-85AD-F967CBF0360C}|RGB ARGB HEX\\RGB ARGB HEX.vbproj|c:\\users\\srisawat\\onedrive\\self leaning\\visual basic\\modern form\\rgb argb hex\\rgb argb hex\\rgb argb hex\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F471A54-E5A0-4F52-85AD-F967CBF0360C}|RGB ARGB HEX\\RGB ARGB HEX.vbproj|solutionrelative:rgb argb hex\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F471A54-E5A0-4F52-85AD-F967CBF0360C}|RGB ARGB HEX\\RGB ARGB HEX.vbproj|c:\\users\\srisawat\\onedrive\\self leaning\\visual basic\\modern form\\rgb argb hex\\rgb argb hex\\rgb argb hex\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4F471A54-E5A0-4F52-85AD-F967CBF0360C}|RGB ARGB HEX\\RGB ARGB HEX.vbproj|solutionrelative:rgb argb hex\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\modern form\\RGB ARGB Hex\\RGB ARGB HEX\\RGB ARGB HEX\\Form1.vb",
+              "RelativeDocumentMoniker": "RGB ARGB HEX\\Form1.vb",
+              "ToolTip": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\modern form\\RGB ARGB Hex\\RGB ARGB HEX\\RGB ARGB HEX\\Form1.vb",
+              "RelativeToolTip": "RGB ARGB HEX\\Form1.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAewBgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-10T10:41:16.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\modern form\\RGB ARGB Hex\\RGB ARGB HEX\\RGB ARGB HEX\\Form1.vb",
+              "RelativeDocumentMoniker": "RGB ARGB HEX\\Form1.vb",
+              "ToolTip": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\modern form\\RGB ARGB Hex\\RGB ARGB HEX\\RGB ARGB HEX\\Form1.vb [Design]",
+              "RelativeToolTip": "RGB ARGB HEX\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-10T10:37:39.381Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0CCC4-2178-4DA8-96A3-15B5E18AFD06}|learn vb.net\\learn vb.net.vbproj|C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3D0CCC4-2178-4DA8-96A3-15B5E18AFD06}|learn vb.net\\learn vb.net.vbproj|solutionrelative:learn vb.net\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0CCC4-2178-4DA8-96A3-15B5E18AFD06}|learn vb.net\\learn vb.net.vbproj|c:\\users\\srisawat\\onedrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3D0CCC4-2178-4DA8-96A3-15B5E18AFD06}|learn vb.net\\learn vb.net.vbproj|solutionrelative:learn vb.net\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\Form1.vb",
+              "RelativeDocumentMoniker": "learn vb.net\\Form1.vb",
+              "ToolTip": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\Form1.vb",
+              "RelativeToolTip": "learn vb.net\\Form1.vb",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-02T14:26:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\Form1.vb",
+              "RelativeDocumentMoniker": "learn vb.net\\Form1.vb",
+              "ToolTip": "C:\\Users\\srisawat\\OneDrive\\self leaning\\visual basic\\learn vb.net\\learn vb.net\\Form1.vb [Design]",
+              "RelativeToolTip": "learn vb.net\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-02T14:13:56.583Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
